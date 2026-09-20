@@ -1,18 +1,20 @@
 # 🔗 Connect With Me
 
-
 <div align="center">
 
-<div align="center">
+<a href="https://www.facebook.com/tungdvtc?locale=vi_VN">
+<img src="https://cdn.simpleicons.org/facebook" width="45" alt="Facebook"/>
+</a>&nbsp;&nbsp;
 
-[![Facebook](https://cdn.simpleicons.org/facebook)](https://www.facebook.com/tungdvtc?locale=vi_VN)
-&nbsp;&nbsp;
-[![Telegram](https://cdn.simpleicons.org/telegram)](https://t.me/_dvtung)
-&nbsp;&nbsp;
-[![Discord](https://cdn.simpleicons.org/discord)](https://discord.com/invite/8FWvZBjk)
+<a href="https://t.me/_dvtung">
+<img src="https://cdn.simpleicons.org/telegram" width="45" alt="Telegram"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://discord.com/invite/8FWvZBjk">
+<img src="https://cdn.simpleicons.org/discord" width="45" alt="Discord"/>
+</a>
 
 </div>
-
 ---
 
 ## 💻 Languages
