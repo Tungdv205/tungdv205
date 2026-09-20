@@ -1,16 +1,47 @@
-## Hi there 👋
+## 💻 Languages
 
-<!--
-**Tungdv205/tungdv205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌱 Frameworks
+
+<div align="center">
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🛠️ Tools
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mysql)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tungdv205&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tungdv205&theme=tokyonight&hide_border=true"/>
+
+</div>
