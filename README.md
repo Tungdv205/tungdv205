@@ -24,7 +24,6 @@
 [![Languages](https://skillicons.dev/icons?i=java,html,css,js,c)](https://skillicons.dev)
 
 </div>
-
 ---
 
 ## 🌱 Frameworks
