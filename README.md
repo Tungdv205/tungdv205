@@ -13,8 +13,10 @@
 <a href="https://www.facebook.com/YOUR_USERNAME">
   <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
 </a>
-
 </div>
+
+---
+
 ## 💻 Languages
 
 <div align="center">
