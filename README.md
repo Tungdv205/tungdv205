@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,maven)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,maven,react)](https://skillicons.dev)
 
 </div>
 
@@ -42,6 +42,6 @@
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mssql,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mssql,vscode,)](https://skillicons.dev)
 
 </div>
