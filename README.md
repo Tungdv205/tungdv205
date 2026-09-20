@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<a href="https://www.facebook.com/tungdvtc?locale=vi_VN">
+<a href="https://www.facebook.com/tungdvtc?locale=vi_VN" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/facebook" width="45"/>
 </a>
-<a href="https://t.me/_dvtung">
+<a href="https://t.me/_dvtung" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/telegram" width="45"/>
 </a>
-<a href="https://discord.com/invite/8FWvZBjk">
+<a href="https://discord.com/invite/8FWvZBjk" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/discord" width="45"/>
 </a>
 </div>
