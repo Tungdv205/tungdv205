@@ -42,6 +42,6 @@
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mssql,vscode,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mysql,vscode,)](https://skillicons.dev)
 
 </div>
