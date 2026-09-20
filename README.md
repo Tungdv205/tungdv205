@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https:https://www.facebook.com/tungdvtc?locale=vi_VN">
+<a href="https://www.facebook.com/tungdvtc?locale=vi_VN">
   <img src="https://cdn.simpleicons.org/facebook" width="45"/>
 </a>
 <a href="https://t.me/_dvtung">
