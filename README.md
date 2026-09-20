@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://github.com/tungdv205">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://discord.com/invite/8FWvZBjk">
+  <img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
 <a href="https://t.me/_dvtung">
