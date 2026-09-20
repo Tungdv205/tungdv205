@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,c)](https://skillicons.dev)
 
 </div>
 
