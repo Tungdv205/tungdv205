@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mysql,visua)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman,mysql,visual)](https://skillicons.dev)
 
 </div>
 
