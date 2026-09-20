@@ -6,16 +6,12 @@
 <a href="https:https://www.facebook.com/tungdvtc?locale=vi_VN">
   <img src="https://cdn.simpleicons.org/facebook" width="45"/>
 </a>
-|
-
 <a href="https://t.me/_dvtung">
   <img src="https://cdn.simpleicons.org/telegram" width="45"/>
 </a>
-|
 <a href="https://discord.com/invite/8FWvZBjk">
   <img src="https://cdn.simpleicons.org/discord" width="45"/>
 </a>
-|
 </div>
 
 ---
